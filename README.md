@@ -1,4 +1,4 @@
-# My Technical Portfolio
+# Building My Technical Portfolio
 
 Welcome to building my technical portfolio part of my bootcamp! This repository showcases my journey into software development and my growing expertise with Git, GitHub, and programming. As a creative professional transitioning into tech, I aim to blend my multimedia background with technical skills to create innovative solutions.
 
