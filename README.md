@@ -1,23 +1,17 @@
-# Building My Technical Portfolio
+# My Technical Portfolio
 
-Welcome to building my technical portfolio part of my bootcamp! This repository showcases my journey into software development and my growing expertise with Git, GitHub, and programming. As a creative professional transitioning into tech, I aim to blend my multimedia background with technical skills to create innovative solutions.
+Welcome to my technical portfolio! This repository showcases my journey into software development, my projects, and my growing expertise with Git, GitHub, and programming.
 
 ## Table of Contents
 1. [About Me](#about-me)
 2. [Projects](#projects)
-3. [Git and GitHub Notes](#git-and-github-notes)
-4. [Building My Brand - Tips](#building-my-brand---tips)
-5. [How to Use This Repository](#how-to-use-this-repository)
-6. [Contact](#contact)
+3. [Learning Notes](#learning-notes)
+4. [Contact](#contact)
 
 ---
 
 ## About Me
 Hi, I’m **Gower Campbell**, a creative professional transitioning from filmmaking to tech. With a background in multimedia and post-production, I’ve honed skills in collaboration, project management, and technical creativity. My passion for storytelling has led me to explore how programming can enhance film and media.
-
-While working as a production assistant and earning a Master’s degree, I realized that technology, especially programming, plays a pivotal role in shaping the future of visual media. As a freelance video editor, I encourage everyone to learn programming languages like JavaScript to create more interactive and modern content. Currently, I’m focusing on Python for its power in data management and application development with Django.
-
-I’m currently enrolled in a 16-week bootcamp to sharpen my skills in software development and data analysis. I’m excited to blend my creative background with my growing technical abilities to make an impact in this tech-driven media world.
 
 ---
 
@@ -34,13 +28,23 @@ Here are some of the projects I've worked on:
 
 ---
 
-## Git and GitHub Notes
-For my detailed notes on Git and GitHub, check out the [Git Notes](CoGrammar-BootCamp-Tasks/knotes.py) file.
+## Learning Notes
+As part of my journey into tech, I’ve been documenting my learning process. Here are some of my notes:
+- [Git Commands and Their Effects on Files](./learning-notes/GitCommands.md)
+- [Building My Brand - Tips](./learning-notes/BuildingMyBrand-Tips.md)
 
 ---
 
-## Building My Brand - Tips
-This section includes tips and strategies I’ve learned for building a personal brand in tech. Stay tuned for updates! 
-[Learn more here](BuildingMyBrand-Tips.md).
+## CoGrammar BootCamp Tasks
+Showing me using VSC to push my files into github and create repository
+- [Git Commands and Their Effects on Files](CoGrammar-BootCamp-Tasks/Gower Campbell – Gower.Campbe)
+- [ClassKnotes](CoGrammar-BootCamp-Tasks/knotes.py)
 
+---
 
+## Contact
+Feel free to reach out to me for collaborations, questions, or just to connect!  
+📧 **Email**: [Gower.Campbell@gmail.com](mailto:Gower.Campbell@gmail.com)  
+🔗 **LinkedIn**: [Gower Campbell](https://www.linkedin.com/in/gower-campbell)  
+
+---
