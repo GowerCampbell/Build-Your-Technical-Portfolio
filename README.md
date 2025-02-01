@@ -30,15 +30,15 @@ Here are some of the projects I've worked on:
 
 ## Learning Notes
 As part of my journey into tech, I’ve been documenting my learning process. Here are some of my notes:
-- [Git Commands and Their Effects on Files](./learning-notes/GitCommands.md)
-- [Building My Brand - Tips](./learning-notes/BuildingMyBrand-Tips.md)
+- [Git Commands and Their Effects on Files](learning-notes/GitCommands.md)
+- [Building My Brand - Tips](learning-notes/BuildingMyBrand-Tips.md)
 
 ---
 
 ## CoGrammar BootCamp Tasks
 Showing me using VSC to push my files into github and create repository
-- [Git Commands and Their Effects on Files](CoGrammar-BootCamp-Tasks/Gower Campbell – Gower.Campbe)
-- [ClassKnotes](CoGrammar-BootCamp-Tasks/knotes.py)
+- [Evidence](CoGrammar-BootCamp-Tasks/evidence.pdf)
+- [Class Knotes](CoGrammar-BootCamp-Tasks/knotes.py)
 
 ---
 
