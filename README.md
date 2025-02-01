@@ -40,6 +40,7 @@ For my detailed notes on Git and GitHub, check out the [Git Notes](CoGrammar-Boo
 ---
 
 ## Building My Brand - Tips
-This section includes tips and strategies I’ve learned for building a personal brand in tech. Stay tuned for updates! [Learn more here](BuildingMyBrand-Tips.md).
+This section includes tips and strategies I’ve learned for building a personal brand in tech. Stay tuned for updates! 
+[Learn more here](BuildingMyBrand-Tips.md).
 
 
