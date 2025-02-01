@@ -35,7 +35,7 @@ Here are some of the projects I've worked on:
 ---
 
 ## Git and GitHub Notes
-For my detailed notes on Git and GitHub, check out the [Git Notes](CoGrammar-BootCamp-Tasks/knotes.md) file.
+For my detailed notes on Git and GitHub, check out the [Git Notes](CoGrammar-BootCamp-Tasks/knotes.py) file.
 
 ---
 
